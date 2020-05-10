@@ -3,6 +3,6 @@
 
 - 评价指标 Evaluation Matrix: Macro-F1 score
 - 数据预处理：分词，去重复，去同义词
-- Machine Learning Model: Naive Bayes
+- Machine Learning Model: Naive Bayes, Logistic regression
 - Deep Learning Model：RNN (RNN+LSTM)， CNN
 
