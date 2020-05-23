@@ -1,6 +1,6 @@
 # Covid-19-Analysis
 
-### 1. Covid-19 Herd Behaviour Analysis: A creative Reseach
+### 1. Covid-19 Human Behaviour Analysis: A creative Reseach
 ##### (A) Description:
 - Herd Behavior is commonly used in Financial Markets to predict uncertainty. 
 - Common Models : Econometrics Regression  and Time Series 
